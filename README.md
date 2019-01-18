@@ -24,7 +24,7 @@
 - git checkout [branch] change branch
 - git add (this is like writing the changes but not yet pressing ctrl-s to git)
 - git commit (this is equivalent to crtl-s)
-- git commit --amend ()
+- git commit --amend (if you want to add more to something you just commited, make sure to add the change id)
 
 
 
