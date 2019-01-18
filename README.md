@@ -1,3 +1,5 @@
+# Send me your username if you want to push changes without having to make pull requests
+
 # Guide to clone, pull, checkout, add, checkout, commit, pull
 
 # How I used git during my workterm
