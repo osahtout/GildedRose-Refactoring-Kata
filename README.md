@@ -1,11 +1,11 @@
 # Send me your username if you want to push changes without having to make pull requests
 
-# Guide to clone, pull, checkout, add, checkout, commit, pull
+### Guide to clone, pull, checkout, add, checkout, commit, pull
 
-# How I used git during my workterm
+### How I used git during my workterm
 * git clone [link to repository]
 
-## you can practice using these steps
+#### you can practice using these steps
 * git checkout -b [name of branch]
 * [make changes to code]
 * git stash
@@ -18,7 +18,7 @@
 * git commit
 * git push origin master
 
-# useful git command to use
+### useful git command to use
 - git stash list (see a list of what you stashed)-
 - git status (to see what files you changed or added)
 - git checkout -- [file name] (revert changes you made that isn't added yet)
@@ -29,7 +29,9 @@
 - git commit --amend (if you want to add more to something you just commited, make sure to add the change id)
 
 
+# End of git tutorial
 
+---------------------
 
 # Gilded Rose Refactoring Kata
 
